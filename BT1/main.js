@@ -17,7 +17,7 @@ document.getElementById("btnResult").onclick = function () {
       break;
     }
     case "khuVucA": {
-      total += 1.5;
+      total += 2;
       break;
     }
     case "khuVucB": {
@@ -36,7 +36,7 @@ document.getElementById("btnResult").onclick = function () {
       break;
     }
     case "doiTuongX": {
-      total += 2;
+      total += 2.5;
       break;
     }
     case "doiTuongY": {
